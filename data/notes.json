@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "gender": null,
+      "firstName": "James",
+      "lastName": "Mathew",
+      "email": "admin@gmail.com",
+      "password": "James@11",
+      "confirmPassword": "James@11",
+      "age": "23",
+      "phone": "7483106222",
+      "address": {
+        "street": "Buddha street",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "zipCode": "560033"
+      },
+      "id": "1"
+    },
+    {
+      "id": "b93f",
+      "firstName": "Sumit",
+      "lastName": "Mochahary",
+      "email": "sumitmochahary5@gmail.com",
+      "password": "Mochahary@123",
+      "confirmPassword": "Mochahary@123",
+      "age": "28",
+      "phoneNumber": "9366193739",
+      "street": "BB1, RK Mission Complex",
+      "city": "Itanagar",
+      "state": "Arunachal Pradesh",
+      "zipCode": "791113"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Self-read",
+      "content": "Deep dive into React first sprint, execute demo codes and check for expected output",
+      "status": "completed"
+    },
+    {
+      "id": "2",
+      "title": "Practice-exercise: HTML",
+      "content": "Develop a responsive web page using Bootstrap. Should use Bootstrap components, forms, grid layout and utilities to make the web page more asethetic. ",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "3",
+      "title": "Assessment: Quiz",
+      "content": "Quiz for JavaScript sprints 4,5 and 6 should be completed by the end of the sprint. It should be taken in Stackquotient environment and its duration will be 30-45 mins",
+      "status": "completed"
+    },
+    {
+      "id": "4",
+      "title": "Refactor JavaScript practice exercise",
+      "content": "Code needs to be well-indented, appropriate comments to be added for better readability",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "5",
+      "title": "Submit to RAAS",
+      "content": "Push the code to git and submit for auto evaluation",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "6",
+      "title": "Watch and Repeat Video",
+      "content": "Watch the video on Get started with React Fundamentals, repeat watching for better understanding",
+      "status": "completed"
+    },
+    {
+      "id": "7",
+      "title": "Code Based Assessment",
+      "content": "Complete the time base code assessment for React Sprint 2 and 3",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "8",
+      "title": "Refactor React Hooks sprint practices",
+      "content": "Based on the comments received from RAAS auton evaluation, refactor the exercises to get better scores",
+      "status": "completed"
+    },
+    {
+      "id": "9",
+      "title": "Course-end project",
+      "content": "Brain storm with the co-partner before starting to implement course-end React project",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "10",
+      "title": "Pending practice exercises",
+      "content": "Complete the pending exercises of DOM and DOM events in JavaScript",
+      "status": "completed"
+    },
+    {
+      "id": "3161",
+      "title": "Test",
+      "content": "testing",
+      "status": "yet-to-start"
+    }
+  ]
+}
